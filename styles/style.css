@@ -1,0 +1,38 @@
+.bg-color {
+    background-color: #fdf0c4;
+    /* color: #ffeaa7;
+    color: #fcd770;
+    color: #ffc729;
+    color: #a0d468;
+    color: #fffefb; */
+}
+
+.bg-nav {
+    background: #fffefb;
+    /* border-bottom: 2px solid #222; */
+}
+
+.logo {
+    width: 48px;
+    height: 48px;
+}
+
+.container-fluid {
+    max-width: 980px;
+}
+
+a {
+    color: #222;
+}
+
+a:hover {
+    color: #3a581a;
+}
+
+.btn {
+    background: #ffc729;
+}
+
+.btn:hover {
+    background: #fcd770;
+}
