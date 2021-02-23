@@ -10,7 +10,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css"
         integrity="sha512-P5MgMn1jBN01asBgU0z60Qk4QxiXo86+wlFahKrsQf37c9cro517WzVSPPV1tDKzhku2iJ2FVgL67wG03SGnNA=="
         crossorigin="anonymous" />
+    <!-- custom css -->
     <link rel="stylesheet" href="styles/style.css">
+    <link href="img/favicon.ico" rel="icon" type="image/x-icon" />
 </head>
 
 <body class="bg-color">
@@ -26,7 +28,7 @@
                     <a class="nav-link" href="#">Receitas</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn" href="#">Nova Receita</a>
+                    <a class="nav-link btn" href="add.php">Nova Receita</a>
                 </li>
 
             </ul>

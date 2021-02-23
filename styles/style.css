@@ -31,8 +31,16 @@ a:hover {
 
 .btn {
     background: #ffc729;
+    padding: 8px 16px;
 }
 
 .btn:hover {
     background: #fcd770;
+}
+
+section.container-fluid {
+    max-width: 880px;
+    background: #fff;
+    border-radius: .25rem;
+    padding: 20px;
 }
