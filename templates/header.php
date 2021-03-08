@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,9 +13,10 @@
 </head>
 
 <body class="bg-color">
-    <nav class="navbar navbar-light bg-nav">
+    <nav class="navbar navbar-light bg-nav py-2">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img src="../img/banana-smoothie.svg" class="logo" alt="Logo Vitaminado">
+            <a class="navbar-brand" href="/"><img src="../img/banana-smoothie.svg" class="logo d-inline-block"
+                    alt="Logo Vitaminado">
             </a>
             <ul class="nav">
                 <li class="nav-item">
@@ -30,7 +28,6 @@
                 <li class="nav-item">
                     <a class="nav-link btn" href="add.php">Nova Receita</a>
                 </li>
-
             </ul>
         </div>
     </nav>

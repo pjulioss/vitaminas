@@ -1,5 +1,5 @@
 .bg-color {
-    background-color: #fdf0c4;
+    background-color: #272525;
     /* color: #ffeaa7;
     color: #fcd770;
     color: #ffc729;
@@ -10,23 +10,26 @@
 .bg-nav {
     background: #fffefb;
     /* border-bottom: 2px solid #222; */
+
 }
 
 .logo {
-    width: 48px;
-    height: 48px;
+    width: 42px;
+    height: 42px;
 }
 
+
 .container-fluid {
-    max-width: 980px;
+    max-width: 1080px;
 }
 
 a {
     color: #222;
+
 }
 
 a:hover {
-    color: #3a581a;
+    color: #202020;
 }
 
 .btn {
@@ -38,9 +41,23 @@ a:hover {
     background: #fcd770;
 }
 
-section.container-fluid {
-    max-width: 880px;
+section.container-fluid form {
+    max-width: 1080px;
     background: #fff;
-    border-radius: .25rem;
+    border-bottom-right-radius: .25rem;
+    border-top-right-radius: .25rem;
     padding: 20px;
+}
+
+.img-form {
+    padding-right: 0;
+}
+
+.img-form img {
+    border-bottom-left-radius: .25rem;
+    border-top-left-radius: .25rem;
+}
+
+h4 {
+    color: #fff;
 }
